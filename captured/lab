@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1" />
+    <link rel="icon" href="/favicon.ico" />
+    <link
+      href="https://fonts.googleapis.com/css?family=Montserrat:400,700&display=swap"
+      rel="stylesheet"
+    />
+    <title>Virtual Lab by Quantum Flytrap</title>
+    <meta name="description" content="A quantum simulation of superposition, entanglement and quantum measurement, right in your browser." />
+    <meta name="author" content="Piotr Migdał, Klem Jankiewicz, Paweł Grabarz, et al." />
+    <!-- Twitter stuff -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:url" content="https://quantumflytrap.com" />
+    <meta name="twitter:title" content="Virtual Lab by Quantum Flytrap" />
+    <meta name="twitter:description" content="A quantum simulation of superposition, entanglement and quantum measurement, right in your browser." />
+    <meta name="twitter:image" content="https://quantumflytrap.com/img/qg2_social_media_screenshot.png" />
+    <meta name="twitter:image:alt" content="A screenshot of Virtual Lab by Quantum Flytrap." />
+    <meta name="twitter:site" content="QuantumFlytrap" />
+    <meta name="twitter:creator" content="QuantumFlytrap" />
+    <!-- Facebook stuff -->
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Virtual Lab by Quantum Flytrap" />
+    <meta property="og:description" content="A quantum simulation of superposition, entanglement and quantum measurement, right in your browser." />
+    <meta property="og:url" content="https://quantumflytrap.com" /> 
+    <meta property="og:image" content="https://quantumflytrap.com/img/qg2_social_media_screenshot.png" />
+    <script defer src="https://plausible.io/js/plausible.js"></script>
+    <script type="module" crossorigin src="/assets/index-CvfDeoRD.js"></script>
+    <link rel="modulepreload" crossorigin href="/assets/rolldown-runtime-W-g5d7YK.js">
+    <link rel="modulepreload" crossorigin href="/assets/graphql-CRgiIBgc.js">
+    <link rel="modulepreload" crossorigin href="/assets/vendor-0cGmvNO6.js">
+    <link rel="modulepreload" crossorigin href="/assets/wasm-bindings-BNEWrK-F.js">
+    <link rel="modulepreload" crossorigin href="/assets/util-DiGQEveS.js">
+    <link rel="modulepreload" crossorigin href="/assets/_plugin-vue_export-helper-K9rsuiWd.js">
+    <link rel="modulepreload" crossorigin href="/assets/AppButton-BoA-vgGF.js">
+    <link rel="modulepreload" crossorigin href="/assets/photon-BVB7o6ks.js">
+    <link rel="modulepreload" crossorigin href="/assets/BoardDots-Kugk2Raq.js">
+    <link rel="modulepreload" crossorigin href="/assets/RockCell-CZJaw-ch.js">
+    <link rel="modulepreload" crossorigin href="/assets/AppHeader-gVy3NWu2.js">
+    <link rel="modulepreload" crossorigin href="/assets/labels-DsNSMavk.js">
+    <link rel="modulepreload" crossorigin href="/assets/Cell-CmtAyru6.js">
+    <link rel="modulepreload" crossorigin href="/assets/AppCell--FKQlKoE.js">
+    <link rel="modulepreload" crossorigin href="/assets/Dropdown-4QO4elZa.js">
+    <link rel="modulepreload" crossorigin href="/assets/VolumeSetting-ZoGtV7Gt.js">
+    <link rel="modulepreload" crossorigin href="/assets/TextInput-C7D9dk3i.js">
+    <link rel="modulepreload" crossorigin href="/assets/EditableField-30tP-zT1.js">
+    <link rel="modulepreload" crossorigin href="/assets/router-D-w4bM7T.js">
+    <link rel="stylesheet" crossorigin href="/assets/style-Ct0PjUft.css">
+  </head>
+
+  <body>
+    <noscript>
+      <strong
+        >We're sorry but quantum doesn't work properly without JavaScript enabled. Please enable it
+        to continue.</strong
+      >
+    </noscript>
+    <div id="app"></div>
+  </body>
+</html>

@@ -1,0 +1,7 @@
+{
+  "name": "quantum-flytrap-offline",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": { "build": "node build.mjs" },
+  "devDependencies": { "esbuild": "0.28.2" }
+}
